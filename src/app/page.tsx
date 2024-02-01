@@ -26,7 +26,7 @@ export default function Home() {
           <p className="p-4 text-center text-2xl">Donate Today</p>
         </button>
       </div>
-      <div className="right-0 left-0 bottom-0 h-[80px] w-[96%] absolute mx-auto">
+      <div className="right-0 left-0 bottom-0 h-[80px] w-[96%] mt-10 mx-auto">
         <div className="w-full grid grid-cols-3 gap-4">
           <div className="bg-red-500 h-10"></div>
           <div className="bg-blue-500 h-10"></div>
