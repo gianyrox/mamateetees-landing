@@ -12,7 +12,7 @@ export default function Home() {
       <div className="right-0 left-0 w-full ">
         <div className="w-1/3 h-[300px] bg-gray-600 bg-opacity-50 border-4 rounded-lg border-gray-600 top-0 mx-auto">
           <p className="p-4 text-center text-xl">
-            To prepare, enable and empower West African children who have been
+            To prepare, enable, and empower West African children who have been
             subjected to living in poverty achieve lifelong success. Through
             programs designed to build and operate orphanages and mission
             schools, prepare teachers, provide school supplies and educational
