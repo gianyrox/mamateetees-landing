@@ -2,15 +2,15 @@ export default function Home() {
   return (
     <div className="h-screen w-screen bg-black">
       <div className="top-0  w-full h-[100px] flex items-center justify-center left-0 right-0 bg-black">
-        <h1 className="text-4xl text-center">Coming soon...</h1>
+        <h1 className="md:text-4xl text-xl text-center">Coming soon...</h1>
       </div>
       <div className="mt-[80px] mb-[60px] top-0">
-        <h1 className="text-8xl text-center">
+        <h1 className="md:text-8xl text-4xl text-center">
           Mama Tee Tees Watta Allison Children Hope Foundation, Inc.
         </h1>
       </div>
       <div className="right-0 left-0 w-full ">
-        <div className="w-1/3 h-[300px] bg-gray-600 bg-opacity-50 border-4 rounded-lg border-gray-600 top-0 mx-auto">
+        <div className="md:w-1/3 h-[300px] bg-gray-600 bg-opacity-50 border-4 rounded-lg border-gray-600 top-0 w-[94%] mx-auto">
           <p className="p-4 text-center text-xl">
             To prepare, enable, and empower West African children who have been
             subjected to living in poverty achieve lifelong success. Through
